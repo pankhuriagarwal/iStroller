@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">iStroller</string>
+    <string name="cartTemp">Stroller Temp </string>
+    <string name="bottleTemp">Bottle Warmer</string>
+    <string name="airPurity">Air Quality</string>
+    <string name="nearbySupplies">Health Centres</string>
+    <string name="emergencyAlert">SOS Call</string>
+    <string name="music">Travel Planner</string>
+    <string name="weather">Weather</string>
+
+
+</resources>
